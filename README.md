@@ -3,10 +3,10 @@
 ### A Calculator Project
 
 
-** Npm Install**
+**Npm Install**
 
 
-~~ Do not use ~~
+~~Do not use~~
 
 *Some basic Git commands are:*
 ```
